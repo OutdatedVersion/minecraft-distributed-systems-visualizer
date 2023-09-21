@@ -1,0 +1,4 @@
+name: 'MicroservicePatternsVisualizer'
+main: '${main}'
+version: '${version}'
+api-version: '1.18'
